@@ -77,10 +77,10 @@ WeatherApp/
 Here are some screenshots of the application in action:
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](https://github.com/ashutoshh-17/WeatherApp/blob/main/screenshots/home%20page.png)
 
 ### Weather Results
-![Weather Results](screenshots/weather_results.png)
+![Weather Results](https://github.com/ashutoshh-17/WeatherApp/blob/main/screenshots/weather%20results.png)
 
 ## Contributing
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request or open an issue.
