@@ -49,22 +49,21 @@ Welcome to my Personal Weather Application! This Java web application provides r
 
 ## Project Structure
 ```
-personal-weather-app/
+WeatherApp/
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── weather/
+│   │   │   └── myPackage/
 │   │   │           ├── MyServlet.java
-│   │   │           └── WeatherData.java
 │   │   ├── webapp/
+│   │   │   ├── images/
+│   │   │   │   └── weather-logo.png
 │   │   │   ├── WEB-INF/
 │   │   │   │   └── web.xml
 │   │   │   ├── index.jsp
 │   │   │   └── css/
-│   │   │       └── styles.css
+│   │   │       └── style.css
 ├── README.md
-├── pom.xml
 └── ...
 
 ```
