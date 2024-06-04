@@ -45,7 +45,7 @@ Welcome to my Personal Weather Application! This Java web application provides r
 3. **Deploy to Apache Tomcat:**
    - Ensure Apache Tomcat is installed and running.
    - Copy the project folder to the Tomcat `webapps` directory.
-   - Start the Tomcat server and navigate to `http://localhost:8080/personal-weather-app` in your web browser.
+   - Start the Tomcat server and navigate to `http://localhost:8080/WeatherApp` in your web browser.
 
 ## Project Structure
 ```
@@ -55,7 +55,7 @@ personal-weather-app/
 │   │   ├── java/
 │   │   │   └── com/
 │   │   │       └── weather/
-│   │   │           ├── WeatherServlet.java
+│   │   │           ├── MyServlet.java
 │   │   │           └── WeatherData.java
 │   │   ├── webapp/
 │   │   │   ├── WEB-INF/
